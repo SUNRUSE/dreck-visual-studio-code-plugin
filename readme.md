@@ -8,7 +8,7 @@ Run the following in a Bash shell at the root of your project:
 
 ```bash
 git submodule add https://github.com/sunruse/dreck-visual-studio-code-plugin submodules/plugins/visual-studio-code
-./submodules/bats-core/bin/bats ./tests/run.bash
+make --file ./submodules/dreck/makefile
 ```
 
 ## Features
