@@ -1,4 +1,4 @@
-# Dreck Visual Studio Code Plugin [![Continuous Integration](https://github.com/sunruse/dreck-visual-studio-code-plugin/workflows/Continuous%20Integration/badge.svg)](https://github.com/sunruse/dreck-visual-studio-code-plugin/actions) [![License](https://img.shields.io/github/license/sunruse/dreck-visual-studio-code-plugin.svg)](https://github.com/sunruse/dreck-visual-studio-code-plugin/blob/master/license) [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
+# Dreck Visual Studio Code Plugin [![License](https://img.shields.io/github/license/sunruse/dreck-visual-studio-code-plugin.svg)](https://github.com/sunruse/dreck-visual-studio-code-plugin/blob/master/license) [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 
 Adds Visual Studio Code boilerplate to a project built using Dreck.
 
