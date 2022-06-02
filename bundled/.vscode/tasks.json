@@ -4,7 +4,7 @@
     {
       "label": "Run",
       "type": "shell",
-      "command": "make --file ./submodules/dreck/makefile",
+      "command": "make --file ./plugins/dreck/makefile",
       "group": {
         "kind": "build",
         "isDefault": true

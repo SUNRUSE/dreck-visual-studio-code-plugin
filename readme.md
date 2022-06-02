@@ -7,8 +7,8 @@ Adds Visual Studio Code boilerplate to a project built using Dreck.
 Run the following in a Bash shell at the root of your project:
 
 ```bash
-git submodule add https://github.com/sunruse/dreck-visual-studio-code-plugin submodules/plugins/visual-studio-code
-make --file ./submodules/dreck/makefile
+git submodule add https://github.com/sunruse/dreck-visual-studio-code-plugin plugins/visual-studio-code
+make --file ./plugins/dreck/makefile
 ```
 
 ## Features
